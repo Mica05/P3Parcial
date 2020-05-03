@@ -1,0 +1,12 @@
+{
+    "name": "mika/parcial",
+    "authors": [
+        {
+            "name": "mika",
+            "email": "micaela.legui@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
